@@ -1,4 +1,4 @@
-SaaS Project Management Platform
+# SaaS Project Management Platform #
 
 A simple SaaS platform for project management, built with React (Vite) for the frontend and Node.js (Express) with MongoDB for the backend. Users can register, log in, create projects, and manage tasks.
 
@@ -28,7 +28,7 @@ Setup & Installation
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/saas-project-management.git
+git clone https://github.com/Calo08/saas-project-management
 cd saas-project-management
 
 2. Backend Setup (Node.js + Express + MongoDB)
