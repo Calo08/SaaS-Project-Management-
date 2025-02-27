@@ -1,0 +1,2 @@
+cd project-management-backend
+node server.js
